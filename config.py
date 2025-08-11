@@ -1,0 +1,4 @@
+TOKEN = '8251420038:AAHH4Laq6j-JjURIY4lE1nRpmF8D_ihvafc'
+TARIFF_PRICE = 100
+TARIFF_DURATION = 3600
+DATABASE_URL = "sqlite:///parking_system.db"
